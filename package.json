@@ -1,0 +1,7 @@
+{
+  "name": "playwright-eaccess-repro",
+  "version": "1.0.0",
+  "dependencies": {
+    "electron-builder": "22.13.1"
+  }
+}
